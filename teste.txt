@@ -1,9 +1,3 @@
 #esse é meu primeiro código no github
 #Testando nova versão
-#Outra linha
-#Incluir Linha teste
-<<<<<<< Updated upstream
-#Teste de versão
-=======
-#Teste branch
->>>>>>> Stashed changes
+#Corrigido
